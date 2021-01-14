@@ -1,7 +1,7 @@
 ![Terkey Termux Key](imtubasya.jpg)
 <h1>Watch-Hours tools</h1>
 <h3>I'am Tubasya</h3>
-<br>Is a tool for Auto REWARD Coins!
+<br><h5>Is a tool for Auto REWARD Coins!</h5>
 <h2>How to use</h2>
 <h3>Linux / Termux App:</h3>
 <br>Enter the below command in the terminal :
